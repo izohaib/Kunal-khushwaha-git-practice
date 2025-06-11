@@ -1,2 +1,4 @@
 # Kunal-khushwaha-git-practice
-This is basically a practice repository to understand the basics of GIT and GIT-Hub.
+this is basically a practice repository to understand the basics of GIT and GIT-Hub.
+just a sample text
+- zohaib says that community is azmaing
